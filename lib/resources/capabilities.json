@@ -194,28 +194,28 @@
       "vendor": "Rongta",
       "model": "RP80USE",
       "description": ""
-    }
-  },
-  "G-Printer": {
-    "codePages": {
-      "0": "PC437",
-      "1": "Katakana",
-      "2": "PC850",
-      "3": "PC860",
-      "4": "PC863",
-      "5": "PC865",
-      "6": "West Europe",
-      "7": "Greek",
-      "8": "Hebrew",
-      "9": "PC755",
-      "10": "Iran",
-      "16": "WPC1252",
-      "17": "PC866",
-      "18": "PC852",
-      "19": "PC858"
     },
-    "vendor": "5SPrinter",
-    "model": "5S",
-    "description": ""
+    "G-Printer": {
+      "codePages": {
+        "0": "PC437",
+        "1": "Katakana",
+        "2": "PC850",
+        "3": "PC860",
+        "4": "PC863",
+        "5": "PC865",
+        "6": "West Europe",
+        "7": "Greek",
+        "8": "Hebrew",
+        "9": "PC755",
+        "10": "Iran",
+        "16": "WPC1252",
+        "17": "PC866",
+        "18": "PC852",
+        "19": "PC858"
+      },
+      "vendor": "5SPrinter",
+      "model": "5S",
+      "description": ""
+    }
   }
 }
